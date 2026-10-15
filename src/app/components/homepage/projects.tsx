@@ -17,7 +17,7 @@ const projects = [
         description:
             "A full working car rental website that allows users to browse available cars, make reservations, and manage their bookings.",
         liveUrl: "",
-        sourceUrl: "",
+        sourceUrl: "https://github.com/Prince73230/Go-Wheels",
         image: "/projects/gowheels.png",
     },
 
@@ -27,7 +27,7 @@ const projects = [
         description:
             "A task management web application that allows users to create, update, and delete tasks, as well as mark them as completed.",
         liveUrl: "",
-        sourceUrl: "",
+        sourceUrl: "https://github.com/Prince73230/XP-Tracker",
         image: "/projects/xp-tracker.png",
     },
     {
@@ -36,7 +36,7 @@ const projects = [
         description:
             "A simple task management web application that allows users to create, update, and delete tasks, as well as mark them as completed.",
         liveUrl: "",
-        sourceUrl: "",
+        sourceUrl: "https://github.com/Prince73230/Task-Manager",
         image: "/projects/task-manager.png",
     },
 

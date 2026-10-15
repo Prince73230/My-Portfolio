@@ -47,12 +47,12 @@ export default function About() {
                             My story
                         </p>
                         <h2 className="mt-5 max-w-xl text-4xl font-bold tracking-tight text-white sm:text-5xl">
-                            Curious by nature. Intentional by craft.
+                            Curious by nature, Intentional by craft.
                         </h2>
 
                         <div className="mt-8 max-w-xl space-y-5 text-base leading-8 text-slate-400">
                             <p>
-                                I&apos;m Prince Raj Singh, a BCA student and frontend developer
+                                I'm Prince Raj Singh, a BCA student and frontend developer
                                 who enjoys turning ideas into clear, useful digital experiences.
                             </p>
                             <p>
@@ -61,14 +61,14 @@ export default function About() {
                                 maintainable behind the scenes.
                             </p>
                             <p>
-                                Outside the browser, I&apos;m usually learning something new,
+                                Outside the browser, I'm usually learning something new,
                                 refining a project, or looking for a better way to explain a
                                 complicated idea.
                             </p>
                         </div>
 
                         <a
-                            href="#contact"
+                            href="/contact"
                             className="mt-9 inline-flex items-center gap-3 rounded-full border border-slate-700 bg-slate-900 px-6 py-3 text-sm font-semibold text-slate-100 shadow-sm transition duration-200 hover:-translate-y-1 hover:border-teal-400 hover:text-teal-300 hover:shadow-lg hover:shadow-teal-950/40 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-teal-500"
                         >
                             Start a conversation
@@ -81,8 +81,8 @@ export default function About() {
 
                 <blockquote className="mx-auto mt-20 max-w-2xl text-center sm:mt-28">
                     <p className="text-2xl font-medium leading-tight tracking-tight text-slate-200 sm:text-3xl">
-                        &ldquo;Good code should feel almost invisible. Good design makes
-                        everything around it feel possible.&rdquo;
+                        "Good code should feel almost invisible. Good design makes
+                        everything around it feel possible"
                     </p>
                     <cite className="mt-5 block font-mono text-xs not-italic uppercase tracking-[0.2em] text-teal-300">
                         personal principle
